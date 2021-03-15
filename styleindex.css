@@ -1,0 +1,13 @@
+body
+{
+background-image: url("SPQR.jpg");
+}
+#napis
+{
+	margin-left: auto;
+    margin-right: auto;
+	height: 155px;
+    width: 350px;
+	background-color: rgb(155, 124, 95);
+	
+}

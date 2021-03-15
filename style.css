@@ -1,0 +1,50 @@
+body
+{
+background-image: url("FRom.jpg");
+}
+
+
+#container1
+{
+	height: 350px;
+    position: relative
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+width: 350px;
+background-color:#A0522D;	
+	
+}
+#container2
+{
+	
+height: 10em;
+    position: relative
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+
+}
+#napis
+{
+	margin-left: auto;
+    margin-right: auto;
+	height: 125px;
+    width: 350px;
+	background-color:#A0522D;
+	
+}
+#napis1
+{
+	font-family: 'Josefin Slab', serif;
+	font-size: 60px;
+ 
+	
+}
